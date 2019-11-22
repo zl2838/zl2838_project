@@ -1,0 +1,11 @@
+--2019-11-22 15:47:29--  https://data.cityofnewyork.us/api/views/vfnx-vebw/rows.csv?accessType=DOWNLOAD
+Resolving data.cityofnewyork.us (data.cityofnewyork.us)... 52.206.140.205, 52.206.68.26, 52.206.140.199
+Connecting to data.cityofnewyork.us (data.cityofnewyork.us)|52.206.140.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/csv]
+Saving to: ‘rows.csv?accessType=DOWNLOAD’
+
+        rows.cs     [<=>   ]       0  --.-KB/s                      rows.csv     [ <=>  ] 519.11K  2.52MB/s               rows.csv?access     [  <=> ] 765.79K  3.29MB/s    in 0.2s    
+
+2019-11-22 15:47:30 (3.29 MB/s) - ‘rows.csv?accessType=DOWNLOAD’ saved [784170]
+
